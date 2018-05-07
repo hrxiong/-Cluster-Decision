@@ -1,0 +1,14 @@
+﻿  Controller.cpp
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\database.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\usertable.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\user.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\worktypetable.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\worktable.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\work.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\creator.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\workflow.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\worker.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\workflowtable.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\mr.nie\desktop\clusterdecisionsupporttechdemo1\clusterdecisionsupporttechdemo1\md5.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ClusterDecisionSupportTechDemo1.vcxproj -> C:\Users\MR.NIE\Desktop\ClusterDecisionSupportTechDemo1\Debug\ClusterDecisionSupportTechDemo1.exe
+  ClusterDecisionSupportTechDemo1.vcxproj -> C:\Users\MR.NIE\Desktop\ClusterDecisionSupportTechDemo1\Debug\ClusterDecisionSupportTechDemo1.pdb (Partial PDB)
